@@ -1,5 +1,7 @@
 # Restaurants-Inspection-Service-Dashboard
-Food and Hygiene inspection services for Restaurants # Restaurant Inspection Dashboard
+Food and Hygiene inspection services for Restaurants
+
+# Restaurant Inspection Dashboard
 https://app.powerbi.com/reportEmbed?reportId=567cdc47-8e57-494e-8aaf-7b646f2ec30f&autoAuth=true&ctid=9be25895-d253-4d8c-b4dc-44ae9b78f884
 
 ## Problem Statement
